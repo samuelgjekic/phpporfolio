@@ -1,0 +1,108 @@
+/* Anpassad CSS för portfolio av Samuel Gjekic */
+
+
+body {
+    font-family: 'Roboto', sans-serif !important;
+    background-color: #f2f2f2 !important; 
+    color: #333 !important; 
+}
+
+/* Kortstil */
+.card {
+    margin-bottom: 20px;
+    background-color: #fff !important; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important; 
+}
+
+.card-img-top {
+    height: 150px;
+    object-fit: cover;
+}
+
+.card-title {
+    font-size: 1.5rem;
+}
+
+.card-text {
+    color: #666;
+    height: 150px; 
+    overflow: hidden;
+}
+
+.card-body {
+    flex: 1; 
+}
+
+.card-footer {
+    display: flex; 
+    justify-content: space-between; 
+    margin-top: auto; 
+}
+
+.btn {
+    margin-top: 10px;
+}
+
+.btn-primary {
+    background-color: #007bff !important; 
+    border-color: #007bff !important;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3 !important; 
+    border-color: #0056b3 !important;
+}
+
+/* Stil för sektioner */
+.section {
+    margin-bottom: 50px;
+    background-color: #fff !important; 
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important; 
+}
+
+/* Om mig sektion */
+.about-me {
+    margin-top: 50px;
+    background-color: white;
+    
+}
+
+.about-me img {
+    max-width: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+/* Skills sektion */
+.skills {
+    margin-top: 50px;
+}
+
+.progress-bar {
+    background-color: #007bff !important; 
+}
+
+/* Varför anställa mig sektion */
+.why-hire-me {
+    margin-top: 50px;
+    background-color: white;
+}
+
+/* Topp Header */
+.header {
+    background-color: #333; 
+    color: #fff; 
+    padding: 50px 0; 
+}
+
+.header h1 {
+    margin-bottom: 10px; 
+}
+
+.subheader {
+    font-size: 18px; 
+}
+
