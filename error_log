@@ -1,0 +1,222 @@
+[04-Mar-2024 00:28:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'admin'@'localhost' (using password: YES) in /home/bredfyco/fidgets.bredfy.com/includes/db.php:12
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/db.php(12): mysqli_connect()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(3): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/db.php on line 12
+[04-Mar-2024 00:28:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'admin'@'localhost' (using password: YES) in /home/bredfyco/fidgets.bredfy.com/includes/db.php:12
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/db.php(12): mysqli_connect()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(3): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/db.php on line 12
+[04-Mar-2024 00:28:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'admin'@'localhost' (using password: YES) in /home/bredfyco/fidgets.bredfy.com/includes/db.php:12
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/db.php(12): mysqli_connect()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(3): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/db.php on line 12
+[04-Mar-2024 00:31:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:32:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:32:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:32:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:32:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:32:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:32:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:32:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:32:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:33:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:33:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:33:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:33:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:33:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:33:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:33:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:33:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:33:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:33:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:33:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:33:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:33:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:33:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:33:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:33:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:33:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:33:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:35:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:35:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:35:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:35:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:36:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:36:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
+[04-Mar-2024 00:37:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bredfyco_testdb.hemsidor' doesn't exist in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php:8
+Stack trace:
+#0 /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php(8): mysqli->prepare()
+#1 /home/bredfyco/fidgets.bredfy.com/index.php(68): include('/home/bredfyco/...')
+#2 {main}
+  thrown in /home/bredfyco/fidgets.bredfy.com/includes/porfolio.php on line 8
