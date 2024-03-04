@@ -1,0 +1,11 @@
+Jag är snabblärd och otroligt passionerad för programmering och webbutveckling, jag kommer vara en stor tillgång i teamet och jag är säker på att jag har mycket att bidra med.
+<br><br>
+Med flera års erfarenhet inom området har jag utvecklat flera färdigheter
+och skapat ett portfolio av väl fungerande och tilltalande webbplatser. Min kompetens
+sträcker sig över ett brett område av teknologier och plattformar. Jag är bekant med moderna
+webbutvecklingsverktyg och är ständigt uppdaterad med de senaste trenderna inom
+branschen. Jag har stor erfarenhet av att arbeta med olika CMS system så som <b>Wordpress,Drupal och Umbraco.</b>
+<br><br>
+Jag har jobbat med Laravel innan och är bekant med det. Jag är dessutom väl insatt i sökmotorsoptimering och förstår mig på detta ganska bra.
+<br><br><a href="https://www.linkedin.com/in/samuel-gjekic-baab28179/">Länk till LinkedIn profil</a><br>
+<a href="https://github.com/samuelgjekic">Länk till Github profil</a>
